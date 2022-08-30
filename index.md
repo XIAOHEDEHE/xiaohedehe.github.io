@@ -1,15 +1,14 @@
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Zhang Wen'yi</h1>
-      <p><b>Chang'an University</b></p>
-      <p><b>E-mail：zhangwenyi_cn@foxmail.com</b></p>
-      <p><b>Address：Shaan'xi Province, China(PRC)</b></p>
-    </td>
-    <td width="25%">
-      <img src="/zhangwenyi.jpg" width="100%">      % 插入证件照代码
-    </td>
-  </tr>
-</table>
+# Zhang Wen'yi
 
-### Honour
+## Introduce
+- School: Chang'an University
+- GPA: 87.2/100
+- Ielts: 6.5
+- Major: Automatic
+
+## Honour
+- [2022/08] China Aritificial Intelligence and Robotics Competition, First Prize of the Country (Header)
+- [2022/04] China Robotics Competition, Second Prize of the Country (Header)
+- [2021/07] Excellent Class Leader Award
+- [2020/10] Outstanding Student in Study (10%)
+- [2020/10] School Contribution Award
